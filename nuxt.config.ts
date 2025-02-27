@@ -7,6 +7,10 @@ export default defineNuxtConfig({
     'shadcn-nuxt',
     'motion-v/nuxt',
     '@nuxt/image',
+    '@nuxtjs/color-mode',
+    '@nuxt/icon',
+    '@nuxtjs/i18n',
+    '@nuxt/content'
   ],
   shadcn: {
     /**
