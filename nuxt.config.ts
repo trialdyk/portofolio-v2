@@ -11,7 +11,7 @@ export default defineNuxtConfig({
     '@nuxt/icon',
     '@nuxtjs/i18n',
     '@nuxt/content',
-    '@nuxtjs/eslint-module'
+    '@nuxt/eslint',
   ],
   shadcn: {
     /**
