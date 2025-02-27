@@ -10,7 +10,8 @@ export default defineNuxtConfig({
     '@nuxtjs/color-mode',
     '@nuxt/icon',
     '@nuxtjs/i18n',
-    '@nuxt/content'
+    '@nuxt/content',
+    '@nuxtjs/eslint-module'
   ],
   shadcn: {
     /**

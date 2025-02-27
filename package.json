@@ -30,6 +30,7 @@
     "vue-router": "latest"
   },
   "devDependencies": {
-    "@inspira-ui/plugins": "^0.0.1"
+    "@inspira-ui/plugins": "^0.0.1",
+    "eslint": "^9.21.0"
   }
 }
