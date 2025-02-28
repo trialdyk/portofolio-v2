@@ -12,6 +12,7 @@ export default defineNuxtConfig({
     '@nuxtjs/i18n',
     '@nuxt/content',
     '@nuxt/eslint',
+    '@vueuse/nuxt'
   ],
   shadcn: {
     /**
