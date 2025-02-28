@@ -9,13 +9,13 @@
           <Icon 
             v-if="colorMode.preference === 'light'" 
             name="material-symbols:wb-sunny" 
-            class="w-6 h-6 text-yellow-300"
+            class="w-4 h-4 text-yellow-500"
             key="light"
           />
           <Icon 
             v-else 
             name="material-symbols:dark-mode" 
-            class="w-6 h-6 text-yellow-300"
+            class="w-4 h-4 text-yellow-300"
             key="dark"
           />
         </Transition>
