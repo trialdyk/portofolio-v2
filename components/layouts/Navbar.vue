@@ -21,6 +21,7 @@
             <!-- Right: Dark Mode & Buttons -->
             <div class="flex items-center space-x-4">
                 <ColorModeToggle />
+                <LanguageSwicther />
                 <NuxtLink to="https://github.com/trialdyk" class="flex items-center">
                     <Icon name="mdi:github" class="size-8" />
                 </NuxtLink>
