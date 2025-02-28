@@ -118,6 +118,10 @@
   }
 }
 
+* {
+  transition: background 0.3s ease-in-out;
+}
+
 html, body {
   overflow-x: hidden;
   width: 100vw;
