@@ -1,3 +1,17 @@
 {
-    "switch_language": "Ganti Bahasa"
+    "switch_language": "Ganti Bahasa",
+    "navbar" : {
+        "home": "Beranda",
+        "skill": "Skill",
+        "project": "Project",
+        "experience": "Pengalaman",
+        "blog": "Blog"
+    },
+    "landing_hero" : {
+        "greeting" : "Halo 👋",
+        "me" : "Saya",
+        "i_am_a" : "Saya adalah",
+        "description": "Saya spesialis dalam membangun aplikasi web innovatif dan pengalaman permainan yang menggunakan teknologi terbaru. Fokus saya adalah membangun solusi yang terbuka, cepat, dan meningkatkan pengalaman pengguna dengan meningkatkan kinerja dan meningkatkan performa.",
+        "get_in_touch": "Hubungi Saya 🚀"
+    }
 }
