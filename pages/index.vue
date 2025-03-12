@@ -1,4 +1,7 @@
 <template>
-    <LandingHero />
-    <LandingQuote />
+    <div class="w-full">
+        <LandingHero />
+        <LandingQuote />
+        <LandingMySkills />
+    </div>
 </template>

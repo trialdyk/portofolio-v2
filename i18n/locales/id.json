@@ -13,5 +13,12 @@
         "i_am_a" : "Saya adalah",
         "description": "Saya spesialis dalam membangun aplikasi web innovatif dan pengalaman permainan yang menggunakan teknologi terbaru. Fokus saya adalah membangun solusi yang terbuka, cepat, dan meningkatkan pengalaman pengguna dengan meningkatkan kinerja dan meningkatkan performa.",
         "get_in_touch": "Hubungi Saya 🚀"
+    },
+    "my_skill" : {
+        "title" : "Apa yang saya bisa lakukan",
+        "web_title" : "Pengembangan Web",
+        "web_description" : "Saya spesialis dalam membangun aplikasi web yang sangat performa dan visual.saya memastikan pengalaman pengguna yang teratur dengan teknologi web terbaru.",
+        "game_title" : "Pengembangan Game",
+        "game_description" : "Pengembangan game adalah hobby saya. Dari mekanisme permainan yang menyenangkan hingga kinerja yang optimal, saya membuat pengalaman interaktif dan meningkatkan batas kreativitas."
     }
 }

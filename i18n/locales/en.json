@@ -13,5 +13,12 @@
         "i_am_a" : "I'm a",
         "description": "I specialize in crafting innovative web applications and immersive game experiences by leveraging the latest cutting-edge technologies. My focus is on creating seamless, high-performance solutions that enhance user engagement and deliver exceptional digital experiences.",
         "get_in_touch": "Get In Touch 🚀"
+    },
+    "my_skill" : {
+        "title" : "What i can do",
+        "web_title" : "Web Development",
+        "web_description" : "I specialize in building high-performance, scalable, and visually stunning web applications. From frontend design to backend logic, I ensure seamless user experiences with the latest web technologies.",
+        "game_title" : "Game Development",
+        "game_description" : "Game development is my passion. From immersive gameplay mechanics to optimized performance, I create interactive experiences and push the boundaries of creativity."
     }
 }
