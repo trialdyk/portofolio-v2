@@ -14,6 +14,7 @@
                 <NuxtLink to="/pricing" class="hover:text-gray-300">{{ $t('navbar.skill') }}</NuxtLink>
                 <NuxtLink to="/blog" class="hover:text-gray-300">{{ $t('navbar.project') }}</NuxtLink>
                 <NuxtLink to="/blog" class="hover:text-gray-300">{{ $t('navbar.experience') }}</NuxtLink>
+                <NuxtLink to="/blog" class="hover:text-gray-300">{{ $t('navbar.contact') }}</NuxtLink>
                 <NuxtLink to="/blog" class="hover:text-gray-300">{{ $t('navbar.blog') }}</NuxtLink>
             </nav>
 

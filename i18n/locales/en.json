@@ -5,6 +5,7 @@
         "skill": "Skill",
         "project": "Project",
         "experience": "Experience",
+        "contact": "Contact",
         "blog": "Blog"
     },
     "landing_hero" : {
@@ -15,7 +16,7 @@
         "get_in_touch": "Get In Touch 🚀"
     },
     "my_skill" : {
-        "title" : "What i can do",
+        "title" : "My Specialization 💫",
         "web_title" : "Web Development",
         "web_description" : "I specialize in building high-performance, scalable, and visually stunning web applications. From frontend design to backend logic, I ensure seamless user experiences with the latest web technologies.",
         "game_title" : "Game Development",

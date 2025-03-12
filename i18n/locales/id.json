@@ -5,6 +5,7 @@
         "skill": "Skill",
         "project": "Project",
         "experience": "Pengalaman",
+        "contact": "Kontak",
         "blog": "Blog"
     },
     "landing_hero" : {
@@ -15,7 +16,7 @@
         "get_in_touch": "Hubungi Saya 🚀"
     },
     "my_skill" : {
-        "title" : "Apa yang saya bisa lakukan",
+        "title" : "Keahlian Saya 💫",
         "web_title" : "Pengembangan Web",
         "web_description" : "Saya spesialis dalam membangun aplikasi web yang sangat performa dan visual.saya memastikan pengalaman pengguna yang teratur dengan teknologi web terbaru.",
         "game_title" : "Pengembangan Game",

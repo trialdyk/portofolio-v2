@@ -3,5 +3,6 @@
         <LandingHero />
         <LandingQuote />
         <LandingMySkills />
+        <LandingFooter />
     </div>
 </template>
