@@ -1,15 +1,4 @@
-
 <template>
-    <LandingHero/>
-    <div class="h-screen">
-
-    </div>
+    <LandingHero />
+    <LandingQuote />
 </template>
-
-<style scoped>
-canvas {
-    position: absolute;
-    top: 0;
-    left: 0;
-}
-</style>

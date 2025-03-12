@@ -9,7 +9,7 @@ const colorMode = useColorMode()
             <BackgroundVortex background-color="#000000"
                 class="flex size-full flex-col items-center justify-center px-2 py-4 md:px-10">
                 <div class="relative z-10 text-center px-6 max-w-3xl">
-                    <h1 class="text-2xl md:text-4xl font-bold mt-6">
+                    <h1 class="text-2xl md:text-4xl font-bold mt-6" >
                         {{ $t('landing_hero.greeting') }}
                     </h1>
                     <h1 class="text-xl md:text-3xl font-bold mt-2 md:mt-6">
