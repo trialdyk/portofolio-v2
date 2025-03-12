@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import Meteor from '../ui/Meteor.vue';
+import Meteor from '../Meteor.vue';
 
 const props = defineProps<{
     title?: string;

@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import IconCloud from './ui/IconCloud.vue';
+import IconCloud from './IconCloud.vue';
 
 const slugs = [
     "typescript",
