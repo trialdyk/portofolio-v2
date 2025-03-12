@@ -1,5 +1,5 @@
 <template >
-    <div class="h-screen w-screen bg-gradient-to-b from-[#000000] to-transparent">
+    <div class="py-24 w-screen bg-gradient-to-b from-[#000000] to-transparent">
         <TextBlurReveal :delay="0.2" :duration="0.75" class="p-8">
             <div class="flex items-center justify-center text-gray-300 p-6">
                 <blockquote class="text-4xl font-medium text-center leading-relaxed max-w-2xl">
