@@ -12,8 +12,17 @@ export default defineNuxtConfig({
     '@nuxtjs/i18n',
     '@nuxt/content',
     '@nuxt/eslint',
-    '@vueuse/nuxt'
+    '@vueuse/nuxt',
+    '@nuxtjs/google-fonts',
   ],
+  css: ['~/assets/css/main.css'],
+  googleFonts: {
+    families: {
+      Poppins: [300, 400, 500, 600, 700] // Sesuaikan dengan kebutuhan
+    },
+    display: 'swap',
+    preconnect: true
+  },
   shadcn: {
     /**
      * Prefix for all the imported component
