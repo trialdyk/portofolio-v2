@@ -40,7 +40,7 @@ const imageUrls = slugs.map((slug) => `https://cdn.simpleicons.org/${slug}/${slu
                 <h1 class="mt-4 text-bold text-4xl">{{ $t('my_skill.title') }}</h1>
             </TextBlurReveal>
         </div>
-        <div class="mt-16 grid grid-cols-3 gap-8 max-w-7xl">
+        <div class="mt-16 grid-cols-1 grid md:grid-cols-3 gap-8 max-w-7xl">
             <CardMySkill :title="$t('my_skill.web_title')" :description="$t('my_skill.web_description')" />
             <div class="flex justify-center">
                 <ClientOnly>
