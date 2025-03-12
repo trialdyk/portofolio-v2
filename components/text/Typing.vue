@@ -54,7 +54,7 @@ onMounted(() => {
 .cursor {
   display: inline-block;
   width: 8px;
-  background: #facc15;
+  background: #0b043f;
   animation: blink 0.7s infinite;
 }
 @keyframes blink {
