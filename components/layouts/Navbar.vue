@@ -10,16 +10,51 @@
 
             <!-- Center: Nav Links -->
             <nav class="hidden md:flex justify-center space-x-6">
-                <NuxtLink to="/" class="hover:text-gray-300">{{ $t('navbar.home') }}</NuxtLink>
-                <NuxtLink to="/pricing" class="hover:text-gray-300">{{ $t('navbar.skill') }}</NuxtLink>
-                <NuxtLink to="/blog" class="hover:text-gray-300">{{ $t('navbar.project') }}</NuxtLink>
-                <NuxtLink to="/blog" class="hover:text-gray-300">{{ $t('navbar.experience') }}</NuxtLink>
-                <NuxtLink to="/blog" class="hover:text-gray-300">{{ $t('navbar.contact') }}</NuxtLink>
-                <NuxtLink to="/blog" class="hover:text-gray-300">{{ $t('navbar.blog') }}</NuxtLink>
+                <NuxtLink 
+                    to="/" 
+                    class="hover:text-blue-500"
+                    exact-active-class="text-blue-500 font-semibold"
+                >
+                    {{ $t('navbar.home') }}
+                </NuxtLink>
+                <NuxtLink 
+                    to="/skills" 
+                    class="hover:text-blue-500"
+                    exact-active-class="text-blue-500 font-semibold"
+                >
+                    {{ $t('navbar.skill') }}
+                </NuxtLink>
+                <NuxtLink 
+                    to="/projects" 
+                    class="hover:text-blue-500"
+                    exact-active-class="text-blue-500 font-semibold"
+                >
+                    {{ $t('navbar.project') }}
+                </NuxtLink>
+                <NuxtLink 
+                    to="/experiences" 
+                    class="hover:text-blue-500"
+                    exact-active-class="text-blue-500 font-semibold"
+                >
+                    {{ $t('navbar.experience') }}
+                </NuxtLink>
+                <NuxtLink 
+                    to="/contact" 
+                    class="hover:text-blue-500"
+                    exact-active-class="text-blue-500 font-semibold"
+                >
+                    {{ $t('navbar.contact') }}
+                </NuxtLink>
+                <NuxtLink 
+                    to="/blogs" 
+                    class="hover:text-blue-500"
+                    exact-active-class="text-blue-500 font-semibold"
+                >
+                    {{ $t('navbar.blog') }}
+                </NuxtLink>
             </nav>
 
             <div class="flex md:hidden">
-
             </div>
 
             <!-- Right: Dark Mode & Buttons -->
