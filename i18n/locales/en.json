@@ -21,5 +21,10 @@
         "web_description" : "I specialize in building high-performance, scalable, and visually stunning web applications.I ensure seamless user experiences with the latest web technologies.",
         "game_title" : "Game Development",
         "game_description" : "Game development is my passion. From immersive gameplay mechanics to optimized performance, I create interactive experiences and push the boundaries of creativity."
+    },
+    "reviews" : {
+        "title" : "What People are Saying 💬",
+        "interested" : "Interested in working together?",
+        "contact" : "Contact →"
     }
 }

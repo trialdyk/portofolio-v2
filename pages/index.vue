@@ -8,9 +8,10 @@ const isDark = computed(() => useColorMode().preference == "dark");
             <LandingHero />
             <LandingQuote />
             <LandingMySkills />
+            <LandingReview />
             <LandingFooter />
         </div>
-        <BackgroundParticle class="absolute inset-0" :quantity="100" :ease="100" :color="isDark ? '#FFF' : '#000'"
+        <BackgroundParticle class="absolute inset-0" :quantity="300" :ease="100" :color="isDark ? '#FFF' : '#000'"
             :staticity="10" refresh />
     </div>
 </template>

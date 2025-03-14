@@ -21,5 +21,10 @@
         "web_description" : "Saya spesialis dalam membangun aplikasi web dengan performa yang baik dan visual yang bagus .saya memastikan pengalaman pengguna yang teratur dan nyaman dengan teknologi web terbaru.",
         "game_title" : "Pengembangan Game",
         "game_description" : "Pengembangan game adalah hobby saya. Dari mekanisme permainan yang menyenangkan hingga kinerja yang optimal, saya membuat pengalaman interaktif dan meningkatkan batas kreativitas."
+    },
+    "reviews" : {
+        "title" : "Yang Orang Lain Katakan 💬",
+        "interested" : "Tertarik untuk berkolaborasi?",
+        "contact" : "Kontak →"
     }
 }

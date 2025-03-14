@@ -4,7 +4,7 @@ import { ORBIT_DIRECTION } from "../components/ui/orbit";
 </script>
 
 <template>
-    <div class="py-24 w-screen flex flex-col items-center justify-center">
+    <div class="py-24 mt-24 w-screen flex flex-col items-center justify-center">
         <div class="flex w-full justify-center items-center flex-col">
             <TextBlurReveal :delay="0.2" :duration="0.75" class="p-4">
                 <TextRadiant
