@@ -1,13 +1,18 @@
+<script setup lang="ts">
+import { useColorMode } from "@vueuse/core";
+
+const isDark = computed(() => useColorMode().value == "dark");
+</script>
+
 <template>
     <div class="w-full min-h-screen relative">
-        <BackgroundTetris
-            class="fixed inset-0 -z-10 w-full h-full [mask-image:radial-gradient(750px_circle_at_center,#007BFF,transparent)]"
-            :base="30"
-            square-color="#007BFF"
-        />
-        <LandingHero />
-        <LandingQuote />
-        <LandingMySkills />
-        <LandingFooter />
+        <div class="w-full">
+            <LandingHero />
+            <LandingQuote />
+            <LandingMySkills />
+            <LandingFooter />
+        </div>
+        <BackgroundParticle class="absolute inset-0" :quantity="100" :ease="100" :color="isDark ? '#FFF' : '#000'"
+            :staticity="10" refresh />
     </div>
 </template>
